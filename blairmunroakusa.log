@@ -1,0 +1,7 @@
+LOG == placestamp stack with dot stacks within placestamps
+
+blairmunroakusa@1102.020422.anch.AK:redcouch
+
+. DUMP init
+. log init
+. moved readme to here
